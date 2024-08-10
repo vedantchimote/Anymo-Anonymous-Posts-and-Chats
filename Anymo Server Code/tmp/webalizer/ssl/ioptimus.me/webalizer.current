@@ -1,0 +1,206 @@
+# Webalizer V2.23-08 Incremental Data - 09/02/2022 07:28:50
+2022 9 2 7 28 50
+33 33 12 12 5 8 359882 13 11 0
+2 11 11 1 2
+22 22 190259 10 12 10
+11 11 169623 2 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 2 8072 2
+0 0 0 0
+10 10 168052 1
+13 13 171016 3
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+4 4 8385 4
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 1393 1
+1 1 0 1
+1 1 1571 0
+0 0 0 0
+1 1 1393 1
+0
+0
+0
+33
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/js/jquery.cookie.js
+0 2 7814716426037852777 2684 0 0
+/img/logo.png
+0 2 0 44578 0 0
+/img/google_pixel.png
+0 2 0 79092 0 0
+/about
+0 1 159880282188415612 1563 1 1
+/js/jquery-3.3.1.min.js
+0 2 0 60716 0 0
+/js/my.js
+0 2 0 442 0 0
+/wp-login.php
+0 2 34258288 3142 0 0
+/css/bootstrap.css
+0 2 0 50914 0 0
+/css/landing.css
+0 2 0 32510 0 0
+/js/bootstrap-slider.min.js
+0 2 0 17874 0 0
+/
+0 12 0 21859 10 0
+/js/bootstrap.bundle.min.js
+0 2 0 44508 0 0
+# End Of Table - urls
+# -sites- (monthly)
+unn-138-199-18-82.datapacket.com
+0 2 2 1393 1 1662017635
+/
+172.121.203.136
+0 10 10 168052 1 1662014110
+/
+checkthat.de
+0 3 3 4349 2 1662046374
+/
+vmi407547.contaboserver.net
+0 1 1 1571 0 0
+-
+199-148-172-163.instances.scw.cloud
+0 1 1 4036 1 1662047564
+/
+undefined.hostname.localhost
+0 1 1 1571 0 0
+-
+149.18.17.46
+0 10 10 168052 1 1662103620
+/
+199.244.88.225
+0 1 1 1393 1 1662060788
+/
+85.191.224.35.bc.googleusercontent.com
+0 1 1 1393 1 1662074367
+/
+s517.sgp8.mysecurecloudhost.com
+0 1 1 0 1 1662064275
+/
+3-109-158-51.instances.scw.cloud
+0 1 1 4036 1 1662006437
+/
+118-251-47-212.instances.scw.cloud
+0 1 1 4036 1 1662007694
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+undefined.hostname.localhost
+0 1 1 1571 0 0
+-
+149.18.17.46
+0 10 10 168052 1 1662103620
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://ioptimus.me
+0 1
+https://www.ioptimus.me
+0 2
+- (Direct Request)
+0 8
+http://ioptimus.me/wp-login.php
+0 2
+http://ioptimus.me/
+0 20
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.1
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36
+0 20
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:55.0) Gecko/20100101 Firefox/55.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64rv:95.0) Gecko/20100101 Firefox/95.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:103.0) Gecko/20100101 Firefox/103.0
+0 2
+Mozilla/5.0 (compatible; seocompany/0.6; +; )
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

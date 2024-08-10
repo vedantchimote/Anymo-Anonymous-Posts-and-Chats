@@ -1,0 +1,81 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 22/06/2016 15:20
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-aquarium-octopus:before { content: "\f100"; }
+.flaticon-bear-facing-right:before { content: "\f101"; }
+.flaticon-beaver-facing-right:before { content: "\f102"; }
+.flaticon-big-bug:before { content: "\f103"; }
+.flaticon-big-fish:before { content: "\f104"; }
+.flaticon-big-owl:before { content: "\f105"; }
+.flaticon-big-toucan:before { content: "\f106"; }
+.flaticon-bird-facing-right:before { content: "\f107"; }
+.flaticon-bull-facing-right:before { content: "\f108"; }
+.flaticon-cat-facing-right:before { content: "\f109"; }
+.flaticon-chicken-looking-right:before { content: "\f10a"; }
+.flaticon-cougar:before { content: "\f10b"; }
+.flaticon-coyote-facing-right:before { content: "\f10c"; }
+.flaticon-crocodile-facing-right:before { content: "\f10d"; }
+.flaticon-deer-facing-right:before { content: "\f10e"; }
+.flaticon-dog-facing-right:before { content: "\f10f"; }
+.flaticon-dromedary-facing-right:before { content: "\f110"; }
+.flaticon-duck-facing-right:before { content: "\f111"; }
+.flaticon-elephant-facing-right:before { content: "\f112"; }
+.flaticon-fox-sitting:before { content: "\f113"; }
+.flaticon-frog-facing-right:before { content: "\f114"; }
+.flaticon-giraffe-facing-right:before { content: "\f115"; }
+.flaticon-gorilla-facing-right:before { content: "\f116"; }
+.flaticon-hamster-facing-right:before { content: "\f117"; }
+.flaticon-hippopotamus-looking-right:before { content: "\f118"; }
+.flaticon-horse-facing-right:before { content: "\f119"; }
+.flaticon-kangaroo-looking-right:before { content: "\f11a"; }
+.flaticon-lion-facing-right:before { content: "\f11b"; }
+.flaticon-lizard-facing-right:before { content: "\f11c"; }
+.flaticon-monkey-facing-right:before { content: "\f11d"; }
+.flaticon-ostrich-facing-right:before { content: "\f11e"; }
+.flaticon-otter-facing-right:before { content: "\f11f"; }
+.flaticon-penguin-facing-right:before { content: "\f120"; }
+.flaticon-pig-facing-right:before { content: "\f121"; }
+.flaticon-rabbit-facing-right:before { content: "\f122"; }
+.flaticon-raccoon-facing-right:before { content: "\f123"; }
+.flaticon-ram-facing-right:before { content: "\f124"; }
+.flaticon-rat-looking-right:before { content: "\f125"; }
+.flaticon-rhinoceros-facing-right:before { content: "\f126"; }
+.flaticon-seahorse-facing-right:before { content: "\f127"; }
+.flaticon-shark-facing-right:before { content: "\f128"; }
+.flaticon-sheep-looking-right:before { content: "\f129"; }
+.flaticon-shrimp-facing-right:before { content: "\f12a"; }
+.flaticon-snail-facing-right:before { content: "\f12b"; }
+.flaticon-snake-facing-right:before { content: "\f12c"; }
+.flaticon-squirrel-facing-right:before { content: "\f12d"; }
+.flaticon-swan-facing-right:before { content: "\f12e"; }
+.flaticon-turkey-facing-right:before { content: "\f12f"; }
+.flaticon-turtle-facing-right:before { content: "\f130"; }
+.flaticon-whale-facing-right:before { content: "\f131"; }
